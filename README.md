@@ -1,5 +1,5 @@
 ##### github链接地址
-- 对比查看效果 [参考链接] (https://github.com/xmfish/learngit-1/blob/master/GitNotes.md)
+- 对比查看效果 [参考链接](https://github.com/xmfish/learngit-1/blob/master/GitNotes.md)
 
 ##### 写在前面
 - 本文档是学习 [廖雪峰Git教程](http://t.cn/zQ6LFwE) 后所做的笔记，教程帮忙很大，非常感谢！
