@@ -1,4 +1,4 @@
-##### github链接地址
+##### Git学习命令链接地址
 - 对比查看效果 [参考链接](https://github.com/xmfish/learngit-1/blob/master/GitNotes.md)
 
 ##### 写在前面
