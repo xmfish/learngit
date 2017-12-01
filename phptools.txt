@@ -1,0 +1,17 @@
+// php 常用方法
+
+function alert($title){
+  echo "<script type='text/javascript'>alert('$title');</script>";
+}
+
+function href($url){
+  echo "<script type='text/javascript'>window.location.href='$url'</script>";
+}
+
+function println($string){
+    echo $string."<br>";
+}
+
+function printline(){
+    echo "<hr color='red' width='20%' align='left'>";
+}
